@@ -1,0 +1,21 @@
+body{   
+    background: url("DALL·E\ 2022-12-27\ 14.20.43\ -\ an\ oil\ painting\ portrait\ of\ a\ capybara\ wearing\ medieval\ royal\ robes\ and\ an\ ornate\ crown\ on\ a\ dark\ background.png") no-repeat top center;
+    background-size: 50%;
+}
+
+.texto{
+    border:solid;
+    margin: 0 auto;
+    padding: 2em;
+    width: 300px; 
+    color: rgb(250, 250, 250);
+    background: rgba(207, 204, 6, 0.336);
+    font-size: 200%;
+    
+}
+.Tituloo{
+    font-size: 400%;
+    color: rgb(115, 117, 0);
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
